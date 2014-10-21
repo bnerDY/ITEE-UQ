@@ -1,9 +1,9 @@
-###ITEE @_The University of Queensland_, Australia
+##ITEE @_The University of Queensland_, Australia
 =======
 
 Programming practice at _The University of Queensland_ from 2012 to 2014.
 
-Courses:
+####Courses:
 
 > - INFS3200(Advanced Database Systems)
 > - INFS3204(Service-Oriented Architectures)
