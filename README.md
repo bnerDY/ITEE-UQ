@@ -7,6 +7,7 @@ Courses:
 
 > - INFS3200(Advanced Database Systems)
 > - INFS3204(Service-Oriented Architectures)
+> - CSSE2310(Computer Systems Principles and Programming)
 > - CSSE2010(Introduction to Computer Systems)
 > - COMP3506(Algorithms and Data Structures)
 > - COMP3702(Artificial Intelligence)
