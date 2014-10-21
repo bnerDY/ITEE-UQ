@@ -1,0 +1,340 @@
+Info: Hi
+Info: Team1: A, C
+Info: Team2: B, D
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+Info: A bids 7H
+Info: B passes
+Info: C passes
+[7H] - Bid (or pass)> Info: A plays KD
+Info: B plays 3D
+Info: C plays 2D
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+[D] play> Info: A won
+Info: A plays 5D
+Info: B plays 6D
+Info: C plays AD
+S: A K J 8 5 3
+C: J 8 5
+D:
+H: Q 7 3
+[D] play> Info: C won
+Info: C plays KC
+S: A K J 8 5
+C: J 8 5
+D:
+H: Q 7 3
+[C] play> Info: A plays 3C
+Info: B plays TC
+Info: C won
+Info: C plays 4S
+S: A K J 8 5
+C: J 8
+D:
+H: Q 7 3
+[S] play> Info: A plays QS
+Info: B plays 6S
+Info: A won
+Info: A plays AH
+Info: B plays KH
+Info: C plays 5H
+S: A K J 5
+C: J 8
+D:
+H: Q 7 3
+[H] play> Info: A won
+Info: A plays TD
+Info: B plays 9D
+Info: C plays 8D
+S: A K J 5
+C: J 8
+D:
+H: Q 7
+[D] play> Info: A won
+Info: A plays TH
+Info: B plays 9H
+Info: C plays 8H
+S: A K J
+C: J 8
+D:
+H: Q 7
+[H] play> Info: A won
+Info: A plays QC
+Info: B plays 2C
+Info: C plays 4C
+S: A K J
+C: J 8
+D:
+H: Q
+[C] play> Info: A won
+Info: A plays 7C
+Info: B plays 6C
+Info: C plays 9C
+S: A K J
+C: J
+D:
+H: Q
+[C] play> Info: D won
+S: A K J
+C:
+D:
+H: Q
+Lead> Info: A plays 7S
+Info: B plays TS
+Info: C plays 9S
+Info: D won
+S: A K
+C:
+D:
+H: Q
+Lead> Info: A plays 2H
+Info: B plays JD
+Info: C plays 4D
+Info: A won
+Info: A plays 7D
+Info: B plays AC
+Info: C plays QD
+S: K
+C:
+D:
+H: Q
+[D] play> Info: C won
+Info: C plays JH
+S:
+C:
+D:
+H: Q
+[H] play> Info: A plays 6H
+Info: B plays 4H
+Info: D won
+Info: Team 1=200, Team 2=0
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+Info: A bids 7H
+Info: B passes
+Info: C passes
+[7H] - Bid (or pass)> Info: A plays KD
+Info: B plays 3D
+Info: C plays 2D
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+[D] play> Info: A won
+Info: A plays 5D
+Info: B plays 6D
+Info: C plays AD
+S: A K J 8 5 3
+C: J 8 5
+D:
+H: Q 7 3
+[D] play> Info: C won
+Info: C plays KC
+S: A K J 8 5
+C: J 8 5
+D:
+H: Q 7 3
+[C] play> Info: A plays 3C
+Info: B plays TC
+Info: C won
+Info: C plays 4S
+S: A K J 8 5
+C: J 8
+D:
+H: Q 7 3
+[S] play> Info: A plays QS
+Info: B plays 6S
+Info: A won
+Info: A plays AH
+Info: B plays KH
+Info: C plays 5H
+S: A K J 5
+C: J 8
+D:
+H: Q 7 3
+[H] play> Info: A won
+Info: A plays TD
+Info: B plays 9D
+Info: C plays 8D
+S: A K J 5
+C: J 8
+D:
+H: Q 7
+[D] play> Info: A won
+Info: A plays TH
+Info: B plays 9H
+Info: C plays 8H
+S: A K J
+C: J 8
+D:
+H: Q 7
+[H] play> Info: A won
+Info: A plays QC
+Info: B plays 2C
+Info: C plays 4C
+S: A K J
+C: J 8
+D:
+H: Q
+[C] play> Info: A won
+Info: A plays 7C
+Info: B plays 6C
+Info: C plays 9C
+S: A K J
+C: J
+D:
+H: Q
+[C] play> Info: D won
+S: A K J
+C:
+D:
+H: Q
+Lead> Info: A plays 7S
+Info: B plays TS
+Info: C plays 9S
+Info: D won
+S: A K
+C:
+D:
+H: Q
+Lead> Info: A plays 2H
+Info: B plays JD
+Info: C plays 4D
+Info: A won
+Info: A plays 7D
+Info: B plays AC
+Info: C plays QD
+S: K
+C:
+D:
+H: Q
+[D] play> Info: C won
+Info: C plays JH
+S:
+C:
+D:
+H: Q
+[H] play> Info: A plays 6H
+Info: B plays 4H
+Info: D won
+Info: Team 1=400, Team 2=0
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+Info: A bids 7H
+Info: B passes
+Info: C passes
+[7H] - Bid (or pass)> Info: A plays KD
+Info: B plays 3D
+Info: C plays 2D
+S: A K J 8 5 3 2
+C: J 8 5
+D:
+H: Q 7 3
+[D] play> Info: A won
+Info: A plays 5D
+Info: B plays 6D
+Info: C plays AD
+S: A K J 8 5 3
+C: J 8 5
+D:
+H: Q 7 3
+[D] play> Info: C won
+Info: C plays KC
+S: A K J 8 5
+C: J 8 5
+D:
+H: Q 7 3
+[C] play> Info: A plays 3C
+Info: B plays TC
+Info: C won
+Info: C plays 4S
+S: A K J 8 5
+C: J 8
+D:
+H: Q 7 3
+[S] play> Info: A plays QS
+Info: B plays 6S
+Info: A won
+Info: A plays AH
+Info: B plays KH
+Info: C plays 5H
+S: A K J 5
+C: J 8
+D:
+H: Q 7 3
+[H] play> Info: A won
+Info: A plays TD
+Info: B plays 9D
+Info: C plays 8D
+S: A K J 5
+C: J 8
+D:
+H: Q 7
+[D] play> Info: A won
+Info: A plays TH
+Info: B plays 9H
+Info: C plays 8H
+S: A K J
+C: J 8
+D:
+H: Q 7
+[H] play> Info: A won
+Info: A plays QC
+Info: B plays 2C
+Info: C plays 4C
+S: A K J
+C: J 8
+D:
+H: Q
+[C] play> Info: A won
+Info: A plays 7C
+Info: B plays 6C
+Info: C plays 9C
+S: A K J
+C: J
+D:
+H: Q
+[C] play> Info: D won
+S: A K J
+C:
+D:
+H: Q
+Lead> Info: A plays 7S
+Info: B plays TS
+Info: C plays 9S
+Info: D won
+S: A K
+C:
+D:
+H: Q
+Lead> Info: A plays 2H
+Info: B plays JD
+Info: C plays 4D
+Info: A won
+Info: A plays 7D
+Info: B plays AC
+Info: C plays QD
+S: K
+C:
+D:
+H: Q
+[D] play> Info: C won
+Info: C plays JH
+S:
+C:
+D:
+H: Q
+[H] play> Info: A plays 6H
+Info: B plays 4H
+Info: D won
+Info: Team 1=600, Team 2=0
+Info: Winner is Team 1

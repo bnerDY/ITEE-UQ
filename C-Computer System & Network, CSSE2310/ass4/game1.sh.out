@@ -1,0 +1,107 @@
+Info: Hello
+Info: Team1: tam, tom
+Info: Team2: tim, tum
+S: T 6
+C: A T 6 2
+D: J 9 6 3
+H: K 9 4
+Info: tam bids 6S
+[6S] - Bid (or pass)> Info: tim bids 6C
+Info: tom passes
+Info: tum passes
+Info: tam passes
+S: T 6
+C: A T 6 2
+D: J 9 6 3
+H: K 9 4
+Lead> Info: tim plays KC
+Info: tim plays 5C
+Info: tim plays QC
+Info: tim won
+S: T 6
+C: T 6 2
+D: J 9 6 3
+H: K 9 4
+Lead> Info: tim plays 9S
+Info: tim plays AS
+Info: tim plays QS
+Info: tum won
+Info: tim plays 7S
+S: T
+C: T 6 2
+D: J 9 6 3
+H: K 9 4
+[S] play> Info: tim plays 4S
+Info: tum won
+Info: tim plays 5D
+S:
+C: T 6 2
+D: J 9 6 3
+H: K 9 4
+[S] play> Info: tim plays 2D
+Info: tum won
+Info: tim plays 6H
+S:
+C: T 6 2
+D: J 9 6
+H: K 9 4
+[H] play> Info: tim plays 5H
+Info: tum won
+Info: tim plays 2H
+S:
+C: T 6 2
+D: J 9 6
+H: K 9
+[S] play> Info: tim plays 8H
+Info: tim won
+S:
+C: T 6
+D: J 9 6
+H: K 9
+Lead> Info: tim plays AD
+Info: tim plays 3H
+Info: tim plays 7D
+Info: tom won
+Info: tim plays 7H
+Info: tim plays AH
+S:
+C: T 6
+D: J 9
+H: K 9
+[H] play> Info: tam won
+S:
+C: T 6
+D: J 9
+H: K
+[D] play> Info: tim plays 4D
+Info: tim plays 2S
+Info: tam won
+S:
+C: T 6
+D: J
+H: K
+[H] play> Info: tim plays 9C
+Info: tim plays 3S
+Info: tom won
+Info: tim plays JC
+Info: tim plays 3C
+S:
+C: T 6
+D: J
+H:
+[C] play> Info: tum won
+Info: tim plays 7C
+S:
+C: T
+D: J
+H:
+[S] play> Info: tim plays 8D
+Info: tam won
+S:
+C: T
+D:
+H:
+[D] play> Info: tim plays QD
+Info: tim plays 8C
+Info: tim won
+Info: Team 1=0, Team 2=520

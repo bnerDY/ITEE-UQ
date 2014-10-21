@@ -1,0 +1,2 @@
+2 2 + ./fromfile tests/sl1.ain
+2 7 Z ./slow

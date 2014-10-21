@@ -1,0 +1,76 @@
+# retval|input|expected_output|expected_err|||args
+
+#bad number of params
+1|empty|empty|usage.err|||
+1|empty|empty|usage.err|||missing.map 
+1|empty|empty|usage.err|||missing.map 10
+
+#invalid maxsteps
+2|empty|empty|maxsteps.err|||missing.map 0 agent.ag
+
+#can't open map file
+3|empty|empty|omap.err|||missing.map 10 agent.ag
+
+#corrupt map file
+#not enough lines
+4|empty|empty|map.err|||tests/bad1.map 10 tests/agent.ag
+# bad second int
+4|empty|empty|map.err|||tests/bad2.map 10 tests/agent.ag
+# invalid char for handler
+4|empty|empty|map.err|||tests/bad3.map 10 tests/agent.ag
+# short line
+4|empty|empty|map.err|||tests/bad4.map 10 tests/agent.ag
+
+#missing agent file
+5|empty|empty|oag.err|||tests/ok.map 10 tests/missing.ag
+
+#Corrupt agent file
+6|empty|empty|ag.err|||tests/ok.map 10 tests/empty
+6|empty|empty|ag.err|||tests/ok.map 10 tests/onlycomment.ag
+
+#failed to start an agent
+7|empty|empty|sag.err|||tests/ok.map 10 tests/badstart.ag
+7|empty|empty|sag.err|||tests/ok.map 10 tests/badstart2.ag
+
+#ran an agent which didn't meet dependencies
+7|empty|empty|runag.err|||tests/ok.map 10 tests/faildeps.ag
+
+
+
+
+#Tests of particular agents
+#test fromfile raw
+0|ffraw1.in|ffraw1.out|empty|||!./fromfile tests/ff1.ain
+4|ffraw2.in|ffraw2.out|empty|||!./fromfile tests/ff22.ain
+1|empty|cparcount.err|empty|||!./fromfile
+2|empty|cparval.err|empty|||!./fromfile tests/missing
+
+
+#test fromfile
+0|empty|ffout1|empty|||tests/ok.map 40 tests/ff1.ag
+9|empty|ffout2|collideW.err|||tests/map2.map 40 tests/ff2.ag
+
+#test simple raw
+4|siraw1.in|siraw1.out|empty|||!./simple W
+2|siraw1.in|cparval.err|empty|||!./simple J
+1|empty|cparcount.err|empty|||!./simple
+
+#simple integrated
+0|empty|si1.out|empty|||tests/map1.map 40 tests/si1.ag
+0|empty|si5.out|empty|||tests/map1.map 30 tests/si5.ag
+
+
+
+#slow integrated
+8|empty|sl1.out|sl1.err|||tests/split1.map 30 tests/sl1.ag
+
+
+
+#slow2 integrated
+0|empty|sl2i.out|empty|||tests/split2.map 30 tests/s21.ag
+10|empty|sl2i2.out|steps.err|||tests/split2.map 10 tests/s21.ag
+
+#waller integrated
+10|empty|w1.out|steps.err|||tests/map1.map 30 tests/w1.ag
+10|empty|w2.out|steps.err|||tests/map1.map 30 tests/w2.ag
+

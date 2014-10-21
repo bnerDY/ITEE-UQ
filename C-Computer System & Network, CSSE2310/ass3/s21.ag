@@ -1,0 +1,2 @@
+4 7 + ./fromfile tests/s21.ain
+4 14 - ./slow2

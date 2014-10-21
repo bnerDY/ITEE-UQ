@@ -1,0 +1,99 @@
+# retval|input|expected_output|expected_err|||args
+
+# This is the marking batch
+# Invalid number of args
+1|empty|empty|usage.err|||
+1|empty|empty|usage.err|||x y z
+
+#invalid max steps
+2|empty|empty|badmax.err|||tests/mat1.map 0
+2|empty|empty|badmax.err|||tests/mat1.map 1000
+
+#Can't open map file
+3|empty|empty|noopen.err|||tests/missing.map 
+
+#bad map dimensions
+4|empty|empty|baddim.err|||tests/dim1.map
+4|empty|empty|baddim.err|||tests/dim2.map
+
+
+#Illegal char in map file
+5|empty|empty|badchar.err|||tests/char1.map
+5|empty|empty|badchar.err|||tests/char3.map
+
+#Incorrect amount of data in file
+6|empty|empty|baddata.err|||tests/char4.map
+6|empty|empty|baddata.err|||tests/char7.map
+
+#Bad letters
+7|empty|empty|badseq.err|||tests/seq1.map
+7|empty|empty|badseq.err|||tests/seq2.map
+
+#Test for initial valid map
+0|empty|char5v.out|empty|||tests/char5.map
+0|empty|all1.out|empty|||tests/all1.map
+
+
+#Single shot into empty grid
+0|N1.in|em1.out|empty|||tests/e44.map
+0|N1.in|em7.out|empty|||tests/e611.map 4
+0|E3.in|em8.out|empty|||tests/e611.map 
+0|emptyline.inp|em9.out|||empty|tests/e611.map
+
+#Single shot using /
+0|S1.in|sa1.out|empty|||tests/4slashA1.map
+0|W1.in|sa2.out|empty|||tests/4slashA1.map
+
+#Single shot using \ 
+0|S2.in|sb1.out|empty|||tests/4slashB1.map
+0|N2.in|sb2.out|empty|||tests/4slashB1.map
+
+#Single shot using =
+0|N2.in|eq1.out|empty|||tests/4eq1.map
+0|N2.in|eq2.out|empty|||tests/4eq1.map 4
+0|W4.in|eq3.out|empty|||tests/4eq1.map
+0|S2.in|eq4.out|empty|||tests/4eq2.map
+0|E2.in|eq5.out|empty|||tests/4eq2.map
+
+#Single shot using @
+0|N8.in|at1.out|empty|||tests/10At1.map
+0|W5.in|at2.out|empty|||tests/10At1.map 4
+
+#Single shot using Teleport
+0|W2.in|t5.out|empty|||tests/4tele2.map 300
+0|N1.in|t6.out|empty|||tests/4tele3.map 300
+
+#Multishot using /
+0|W1S2.in|ms2.out|empty|||tests/mslashA2.map
+0|W1S2E4.in|ms3.out|empty|||tests/mslashA3.map
+
+#multishot using \ 
+0|E1S2E2.in|msb1.out|empty|||tests/mslashB1.map
+
+#multishot using =
+0|E1S2W4.in|meq1.out|empty|||tests/meq1.map
+
+#multishot using @
+0|W1S2.in|mat1.out|empty|||tests/char5.map
+
+#multishot using tele
+0|N3E2S6.in|mt1.out|empty|||tests/mtele1.map
+0|W3W8S7E8.in|mt2.out|empty|||tests/mtele2.map
+
+#multiple shots with mulitple components
+0|E9S2.in|hi.out|empty|||tests/1010hi.map
+0|E5W5.in|all2.out|empty|||tests/all1.map
+0|S3S11.in|all6.out|empty|||tests/all4.map 200
+
+#garbage input test
+0|g1.in|garb1.out|empty|||tests/1010hi.map
+
+
+
+
+
+
+
+
+
+
