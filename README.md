@@ -4,13 +4,13 @@ Programming practice at _The University of Queensland_ from 2012 to 2014.
 
 ####Courses:
 
-> - _INFS3200(Advanced Database Systems)_
-> - _INFS3204(Service-Oriented Architectures)_
-> - _CSSE2310(Computer Systems Principles and Programming)_
-> - _CSSE2010(Introduction to Computer Systems)_
-> - _COMP3506(Algorithms and Data Structures)_
-> - _COMP3702(Artificial Intelligence)_
-> - _CSSE2002(Programming in the large)_
-> - _COMS3200(Computer Networks)_
-> - _INFS3202(Web Information System)_
-> - _INFS2200(Relational Database Systems)_
+> - INFS3200 _(Advanced Database Systems)_
+> - INFS3204 _(Service-Oriented Architectures)_
+> - CSSE2310 _(Computer Systems Principles and Programming)_
+> - CSSE2010 _(Introduction to Computer Systems)_
+> - COMP3506 _(Algorithms and Data Structures)_
+> - COMP3702 _(Artificial Intelligence)_
+> - CSSE2002 _(Programming in the large)_
+> - COMS3200 _(Computer Networks)_
+> - INFS3202 _(Web Information System)_
+> - INFS2200 _(Relational Database Systems)_
