@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ADODatabaseService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:57837/ADODatabaseService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:57837/ADODatabaseService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:57837/ADODatabaseService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Prac4" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IADODatabaseService_PatientRegistration_InputMessage">
+    <wsdl:part name="parameters" element="tns:PatientRegistration" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_PatientRegistration_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PatientRegistrationResponse" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_DoctorRegistration_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoctorRegistration" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_DoctorRegistration_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoctorRegistrationResponse" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_GetPatientInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPatientInfo" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_GetPatientInfo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPatientInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_GetDoctorInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDoctorInfo" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_GetDoctorInfo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDoctorInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_AppointmentBooking_InputMessage">
+    <wsdl:part name="parameters" element="tns:AppointmentBooking" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_AppointmentBooking_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AppointmentBookingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_GetAppointment_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAppointment" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_GetAppointment_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAppointmentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_AppointmentReschedule_InputMessage">
+    <wsdl:part name="parameters" element="tns:AppointmentReschedule" />
+  </wsdl:message>
+  <wsdl:message name="IADODatabaseService_AppointmentReschedule_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AppointmentRescheduleResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IADODatabaseService">
+    <wsdl:operation name="PatientRegistration">
+      <wsdl:input wsaw:Action="http://tempuri.org/IADODatabaseService/PatientRegistration" message="tns:IADODatabaseService_PatientRegistration_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IADODatabaseService/PatientRegistrationResponse" message="tns:IADODatabaseService_PatientRegistration_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DoctorRegistration">
+      <wsdl:input wsaw:Action="http://tempuri.org/IADODatabaseService/DoctorRegistration" message="tns:IADODatabaseService_DoctorRegistration_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IADODatabaseService/DoctorRegistrationResponse" message="tns:IADODatabaseService_DoctorRegistration_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPatientInfo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IADODatabaseService/GetPatientInfo" message="tns:IADODatabaseService_GetPatientInfo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IADODatabaseService/GetPatientInfoResponse" message="tns:IADODatabaseService_GetPatientInfo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDoctorInfo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IADODatabaseService/GetDoctorInfo" message="tns:IADODatabaseService_GetDoctorInfo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IADODatabaseService/GetDoctorInfoResponse" message="tns:IADODatabaseService_GetDoctorInfo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AppointmentBooking">
+      <wsdl:input wsaw:Action="http://tempuri.org/IADODatabaseService/AppointmentBooking" message="tns:IADODatabaseService_AppointmentBooking_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IADODatabaseService/AppointmentBookingResponse" message="tns:IADODatabaseService_AppointmentBooking_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAppointment">
+      <wsdl:input wsaw:Action="http://tempuri.org/IADODatabaseService/GetAppointment" message="tns:IADODatabaseService_GetAppointment_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IADODatabaseService/GetAppointmentResponse" message="tns:IADODatabaseService_GetAppointment_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AppointmentReschedule">
+      <wsdl:input wsaw:Action="http://tempuri.org/IADODatabaseService/AppointmentReschedule" message="tns:IADODatabaseService_AppointmentReschedule_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IADODatabaseService/AppointmentRescheduleResponse" message="tns:IADODatabaseService_AppointmentReschedule_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IADODatabaseService" type="tns:IADODatabaseService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="PatientRegistration">
+      <soap:operation soapAction="http://tempuri.org/IADODatabaseService/PatientRegistration" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DoctorRegistration">
+      <soap:operation soapAction="http://tempuri.org/IADODatabaseService/DoctorRegistration" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPatientInfo">
+      <soap:operation soapAction="http://tempuri.org/IADODatabaseService/GetPatientInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDoctorInfo">
+      <soap:operation soapAction="http://tempuri.org/IADODatabaseService/GetDoctorInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AppointmentBooking">
+      <soap:operation soapAction="http://tempuri.org/IADODatabaseService/AppointmentBooking" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAppointment">
+      <soap:operation soapAction="http://tempuri.org/IADODatabaseService/GetAppointment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AppointmentReschedule">
+      <soap:operation soapAction="http://tempuri.org/IADODatabaseService/AppointmentReschedule" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ADODatabaseService">
+    <wsdl:port name="BasicHttpBinding_IADODatabaseService" binding="tns:BasicHttpBinding_IADODatabaseService">
+      <soap:address location="http://localhost:57837/ADODatabaseService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

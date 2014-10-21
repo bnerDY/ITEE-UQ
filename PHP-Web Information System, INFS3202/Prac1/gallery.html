@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Gallery</title>
+    <meta name="description" content="Gallery, bonus" />
+    <meta id="keywords" content="INFS3202 prac1" />
+	<meta id="author" content="Martin Yu" />
+    <script type="text/javascript" src="scripts/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="scripts/jquery.lightbox.min.js"></script>
+    <script type="text/javascript" src="scripts/gallery.js"></script>
+  </head>
+  <body>
+    <div id="canvas_container" style="position:relative; margin:auto; width:800px;height:250px;">
+    <p>Bonus:</p>
+    <canvas id="slideshow" width="800" height="250">
+      <img src="images/image1.jpg" alt="description image 1" style="display:none;" />
+      <img src="images/image2.jpg" alt="description image 2" style="display:none;" />
+      <img src="images/image3.jpg" alt="description image 3" style="display:none;" />
+      <img src="images/image4.jpg" alt="description image 4" style="display:none;" />
+      <img src="images/image5.jpg" alt="description image 5" style="display:none;" />
+      <img src="images/image6.jpg" alt="description image 6" style="display:none;" />
+      <img src="images/image7.jpg" alt="description image 7" style="display:none;" />
+      <img src="images/image8.jpg" alt="description image 8" style="display:none;" />
+    </canvas>
+    <script type="text/javascript">
+      $('#slideshow').gallery({num_elem: 3});
+    </script>
+    </div>
+    <br /><br /><br /><br /><br />
+    <p style="position:relative; margin:auto;"><a href="index.html">Back</a></p>
+  </body>
+</html>
+

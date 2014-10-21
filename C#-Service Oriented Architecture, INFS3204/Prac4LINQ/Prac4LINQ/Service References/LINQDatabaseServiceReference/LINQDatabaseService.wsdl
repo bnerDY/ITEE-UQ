@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="LINQDatabaseService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:56429/LINQDatabaseService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:56429/LINQDatabaseService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:56429/LINQDatabaseService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Prac4LINQ" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ILINQDatabaseService_PatientRegistration_InputMessage">
+    <wsdl:part name="parameters" element="tns:PatientRegistration" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_PatientRegistration_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PatientRegistrationResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_DoctorRegistration_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoctorRegistration" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_DoctorRegistration_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoctorRegistrationResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_GetPatientInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPatientInfo" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_GetPatientInfo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPatientInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_GetDoctorInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDoctorInfo" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_GetDoctorInfo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDoctorInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_AppointmentBooking_InputMessage">
+    <wsdl:part name="parameters" element="tns:AppointmentBooking" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_AppointmentBooking_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AppointmentBookingResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_GetAppointment_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAppointment" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_GetAppointment_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAppointmentResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_AppointmentReschedule_InputMessage">
+    <wsdl:part name="parameters" element="tns:AppointmentReschedule" />
+  </wsdl:message>
+  <wsdl:message name="ILINQDatabaseService_AppointmentReschedule_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AppointmentRescheduleResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ILINQDatabaseService">
+    <wsdl:operation name="PatientRegistration">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILINQDatabaseService/PatientRegistration" message="tns:ILINQDatabaseService_PatientRegistration_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILINQDatabaseService/PatientRegistrationResponse" message="tns:ILINQDatabaseService_PatientRegistration_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DoctorRegistration">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILINQDatabaseService/DoctorRegistration" message="tns:ILINQDatabaseService_DoctorRegistration_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILINQDatabaseService/DoctorRegistrationResponse" message="tns:ILINQDatabaseService_DoctorRegistration_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPatientInfo">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILINQDatabaseService/GetPatientInfo" message="tns:ILINQDatabaseService_GetPatientInfo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILINQDatabaseService/GetPatientInfoResponse" message="tns:ILINQDatabaseService_GetPatientInfo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDoctorInfo">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILINQDatabaseService/GetDoctorInfo" message="tns:ILINQDatabaseService_GetDoctorInfo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILINQDatabaseService/GetDoctorInfoResponse" message="tns:ILINQDatabaseService_GetDoctorInfo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AppointmentBooking">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILINQDatabaseService/AppointmentBooking" message="tns:ILINQDatabaseService_AppointmentBooking_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILINQDatabaseService/AppointmentBookingResponse" message="tns:ILINQDatabaseService_AppointmentBooking_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAppointment">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILINQDatabaseService/GetAppointment" message="tns:ILINQDatabaseService_GetAppointment_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILINQDatabaseService/GetAppointmentResponse" message="tns:ILINQDatabaseService_GetAppointment_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AppointmentReschedule">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILINQDatabaseService/AppointmentReschedule" message="tns:ILINQDatabaseService_AppointmentReschedule_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILINQDatabaseService/AppointmentRescheduleResponse" message="tns:ILINQDatabaseService_AppointmentReschedule_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ILINQDatabaseService" type="tns:ILINQDatabaseService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="PatientRegistration">
+      <soap:operation soapAction="http://tempuri.org/ILINQDatabaseService/PatientRegistration" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DoctorRegistration">
+      <soap:operation soapAction="http://tempuri.org/ILINQDatabaseService/DoctorRegistration" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPatientInfo">
+      <soap:operation soapAction="http://tempuri.org/ILINQDatabaseService/GetPatientInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDoctorInfo">
+      <soap:operation soapAction="http://tempuri.org/ILINQDatabaseService/GetDoctorInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AppointmentBooking">
+      <soap:operation soapAction="http://tempuri.org/ILINQDatabaseService/AppointmentBooking" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAppointment">
+      <soap:operation soapAction="http://tempuri.org/ILINQDatabaseService/GetAppointment" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AppointmentReschedule">
+      <soap:operation soapAction="http://tempuri.org/ILINQDatabaseService/AppointmentReschedule" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="LINQDatabaseService">
+    <wsdl:port name="BasicHttpBinding_ILINQDatabaseService" binding="tns:BasicHttpBinding_ILINQDatabaseService">
+      <soap:address location="http://localhost:56429/LINQDatabaseService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
