@@ -1,4 +1,6 @@
-UQ-ITEE
+####UQ-ITEE @The University of Queensland, Australia
 =======
 
-programming prototypes at University of Queensland
+Programming prototypes at University of Queensland from 2012 to 2014.
+
+
