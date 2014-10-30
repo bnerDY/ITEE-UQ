@@ -37,7 +37,7 @@ Programming practices at _The University of Queensland_ from 2012 to 2014.
 * TCP Java Client/Server
 * UDP Java Client/Server
 
-**INFS3202 _(Web Information System)**
+**INFS3202 _(Web Information System)_**
 * PHP, JSP, AJAX, Google Map.
 
 **INFS2200 _(Relational Database Systems)_**
