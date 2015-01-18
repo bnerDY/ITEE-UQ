@@ -22,8 +22,8 @@ Programming practices at _The University of Queensland_ from 2012 to 2014.
 * AVR C project
 
 **COMP3506 _(Algorithms and Data Structures)_**
-* Tree traversal
-* Graph traversal
+* Tree Traversal
+* Graph Traversal
 
 **COMP3702 _(Artificial Intelligence)_**
 * Probabilistic Roadmap (PRM)
