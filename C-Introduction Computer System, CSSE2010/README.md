@@ -2,7 +2,7 @@
 ============
 
 #####Simulation on terminal
-![alt tag](https://github.com/bnerDY/ITEE-UQ/edit/master/C-Introduction%20Computer%20System,%20CSSE2010/1.png)
+![alt tag](https://github.com/bnerDY/ITEE-UQ/master/C-Introduction%20Computer%20System,%20CSSE2010/1.png)
 
 
 CSSE2010 Introduction to Computer Systems, Atmel C project, Sem1 2013.
