@@ -5,9 +5,9 @@ Programming practices at _The University of Queensland_ from 2012 to 2014.
 ####Courses:
 
 **INFS3200 _(Advanced Database Systems)_**
-* Horizontally and vertically fragment relations during distributed database design
-* Map reduce simulation
-* Edit distance
+* Horizontally and Vertically Fragment Relations During Distributed Database Design
+* Map Reduce Simulation
+* Edit Distance
 
 **INFS3204 _(Service-Oriented Architectures)_**
 * WCF
@@ -26,7 +26,7 @@ Programming practices at _The University of Queensland_ from 2012 to 2014.
 * Graph traversal
 
 **COMP3702 _(Artificial Intelligence)_**
-* Probabilistic roadmap (PRM)
+* Probabilistic Roadmap (PRM)
 * Monte Carlo Tree Search(MCTS)
 * Bayesian Networks
 
@@ -41,4 +41,4 @@ Programming practices at _The University of Queensland_ from 2012 to 2014.
 * PHP, JSP, AJAX, Google Map.
 
 **INFS2200 _(Relational Database Systems)_**
-* Oracle database 11g SQL script.
+* Oracle Database 11g SQL script.
