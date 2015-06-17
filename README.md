@@ -1,6 +1,6 @@
 ###ITEE @_The University of Queensland_, Australia
 =======
-Programming practices at _The University of Queensland_ from 2012 to 2014.
+Programming courseworks at _The University of Queensland_ from 2012 to 2014.
 
 ####Courses:
 
