@@ -1,0 +1,3382 @@
+Possible Model counts:25
+B
+C
+A C
+
+Search times: 1
+Current Score: -10.61678611840532:-45.61678611840532
+Best Score: -40.691637249550986
+Threshold: 10
+B A
+C
+A C
+
+Search times: 2
+Current Score: -10.54193498725965:-50.54193498725965
+Best Score: -40.691637249550986
+Threshold: 10
+B A C
+C
+A C
+
+Search times: 3
+Current Score: -10.54193498725965:-60.54193498725965
+Best Score: -40.691637249550986
+Threshold: 10
+B A C
+C A
+A
+
+Search times: 4
+Current Score: -10.54193498725965:-60.54193498725965
+Best Score: -40.691637249550986
+Threshold: 10
+B A
+C A
+A
+
+Search times: 5
+Current Score: -10.54193498725965:-50.54193498725965
+Best Score: -40.691637249550986
+Threshold: 10
+B A
+C A B
+A
+
+Search times: 6
+Current Score: -10.54193498725965:-60.54193498725965
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C A B
+A B
+
+Search times: 7
+Current Score: -10.54193498725965:-60.54193498725965
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C B
+A B
+
+Search times: 8
+Current Score: -10.614656284435817:-50.61465628443582
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C B
+A
+
+Search times: 9
+Current Score: -10.689507415581486:-45.68950741558149
+Best Score: -40.691637249550986
+Threshold: 10
+B A
+C B
+A
+
+Search times: 10
+Current Score: -10.614656284435817:-50.61465628443582
+Best Score: -40.691637249550986
+Threshold: 10
+B A C
+C
+A
+
+Search times: 11
+Current Score: -10.616786118405317:-55.616786118405315
+Best Score: -40.691637249550986
+Threshold: 10
+B C
+C
+A B
+
+Search times: 12
+Current Score: -10.614656284435817:-50.61465628443582
+Best Score: -40.691637249550986
+Threshold: 10
+B C
+C
+A
+
+Search times: 13
+Current Score: -10.689507415581486:-45.68950741558149
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C
+A
+
+Search times: 14
+Current Score: -10.691637249550988:-40.691637249550986
+Best Score: -40.691637249550986
+Threshold: 10
+B C
+C
+A C
+
+Search times: 15
+Current Score: -10.614656284435817:-50.61465628443582
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C B
+A C
+
+Search times: 16
+Current Score: -10.614656284435817:-50.61465628443582
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C A B
+A
+
+Search times: 17
+Current Score: -10.61678611840532:-55.61678611840532
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C A
+A
+
+Search times: 18
+Current Score: -10.61678611840532:-45.61678611840532
+Best Score: -40.691637249550986
+Threshold: 10
+B C
+C A
+A
+
+Search times: 19
+Current Score: -10.614656284435817:-50.61465628443582
+Best Score: -40.691637249550986
+Threshold: 10
+B A
+C
+A
+
+Search times: 20
+Current Score: -10.616786118405317:-45.616786118405315
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C
+A B C
+
+Search times: 21
+Current Score: -10.544064821229151:-55.54406482122915
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C
+A B
+
+Search times: 22
+Current Score: -10.616786118405317:-45.616786118405315
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C A
+A B
+
+Search times: 23
+Current Score: -10.54193498725965:-50.54193498725965
+Best Score: -40.691637249550986
+Threshold: 10
+B
+C B
+A B C
+
+Search times: 24
+Current Score: -10.54193498725965:-60.54193498725965
+Best Score: -40.691637249550986
+Threshold: 10
+No new model is found after 20 tries
+Possible Model counts:719
+B
+L G
+G
+M
+
+Search times: 1
+Current Score: -81.65230937731371:-126.65230937731371
+Best Score: -121.67534493756551
+Threshold: 20
+B
+L G M
+G
+M
+
+Search times: 2
+Current Score: -66.53745043192575:-121.53745043192575
+Best Score: -121.53745043192575
+Threshold: 20
+B
+L B G M
+G
+M
+
+Search times: 3
+Current Score: -65.78781801227595:-140.78781801227595
+Best Score: -121.53745043192575
+Threshold: 20
+B M
+L B G M
+G
+M
+
+Search times: 4
+Current Score: -63.41141641973712:-143.41141641973712
+Best Score: -121.53745043192575
+Threshold: 20
+B M
+L G M
+G
+M
+
+Search times: 5
+Current Score: -64.16104883938692:-124.16104883938692
+Best Score: -121.53745043192575
+Threshold: 20
+B
+L G M
+G
+M B
+
+Search times: 6
+Current Score: -64.1610488393869:-124.1610488393869
+Best Score: -121.53745043192575
+Threshold: 20
+B
+L G
+G
+M B L
+
+Search times: 7
+Current Score: -63.60666418473304:-123.60666418473303
+Best Score: -121.53745043192575
+Threshold: 20
+B
+L
+G L
+M B L
+
+Search times: 8
+Current Score: -63.60666418473304:-123.60666418473303
+Best Score: -121.53745043192575
+Threshold: 20
+B
+L G
+G
+M B
+
+Search times: 9
+Current Score: -79.27590778477486:-129.27590778477486
+Best Score: -121.53745043192575
+Threshold: 20
+B
+L G
+G B
+M B
+
+Search times: 10
+Current Score: -72.7103955382069:-127.7103955382069
+Best Score: -121.53745043192575
+Threshold: 20
+B
+L G
+G B
+M
+
+Search times: 11
+Current Score: -75.08679713074572:-125.08679713074572
+Best Score: -121.53745043192575
+Threshold: 20
+B
+L G
+G B
+M L
+
+Search times: 12
+Current Score: -60.54509750543413:-115.54509750543413
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G B L
+M L
+
+Search times: 13
+Current Score: -60.53486284822431:-120.53486284822431
+Best Score: -115.54509750543413
+Threshold: 20
+B L
+L
+G B L
+M L
+
+Search times: 14
+Current Score: -60.53373802596048:-125.53373802596047
+Best Score: -115.54509750543413
+Threshold: 20
+B L M
+L
+G B L
+M L
+
+Search times: 15
+Current Score: -57.029792458691446:-132.02979245869145
+Best Score: -115.54509750543413
+Threshold: 20
+B G L M
+L
+G L
+M L
+
+Search times: 16
+Current Score: -58.45765547533152:-143.45765547533153
+Best Score: -115.54509750543413
+Threshold: 20
+B G L M
+L G
+G
+M L
+
+Search times: 17
+Current Score: -58.45765547533152:-143.45765547533153
+Best Score: -115.54509750543413
+Threshold: 20
+B G M
+L
+G L
+M L
+
+Search times: 18
+Current Score: -59.20728789498132:-124.20728789498132
+Best Score: -115.54509750543413
+Threshold: 20
+B G
+L
+G L
+M B L
+
+Search times: 19
+Current Score: -57.04115193816511:-122.04115193816511
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L
+G L
+M B L
+
+Search times: 20
+Current Score: -57.02979245869146:-132.02979245869147
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L
+G
+M B L
+
+Search times: 21
+Current Score: -57.05282801894326:-127.05282801894326
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L
+G
+M B G L
+
+Search times: 22
+Current Score: -56.86754090529232:-146.86754090529232
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L
+G
+M G L
+
+Search times: 23
+Current Score: -58.94362345592128:-128.94362345592128
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L M
+G
+M G
+
+Search times: 24
+Current Score: -59.51678277599752:-124.51678277599751
+Best Score: -115.54509750543413
+Threshold: 20
+B L
+L M
+G
+M G
+
+Search times: 25
+Current Score: -66.0925296797752:-121.0925296797752
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L G M
+G
+M G
+
+Search times: 26
+Current Score: -58.92058789566942:-133.92058789566943
+Best Score: -115.54509750543413
+Threshold: 20
+B L
+L G M
+G
+M G
+
+Search times: 27
+Current Score: -65.49633479944717:-130.49633479944717
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B G M
+G
+M G
+
+Search times: 28
+Current Score: -64.7478272020612:-144.74782720206122
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B G M
+G
+M B G
+
+Search times: 29
+Current Score: -63.41001759160841:-153.4100175916084
+Best Score: -115.54509750543413
+Threshold: 20
+B G
+L B G M
+G
+M B G
+
+Search times: 30
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -115.54509750543413
+Threshold: 20
+B G M
+L B G M
+G
+M G
+
+Search times: 31
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -115.54509750543413
+Threshold: 20
+B G M
+L G M
+G
+M G
+
+Search times: 32
+Current Score: -57.59413776469026:-132.59413776469026
+Best Score: -115.54509750543413
+Threshold: 20
+B G M
+L G
+G
+M G L
+
+Search times: 33
+Current Score: -57.59413776469026:-132.59413776469026
+Best Score: -115.54509750543413
+Threshold: 20
+B G M
+L G M
+G
+M
+
+Search times: 34
+Current Score: -58.634128574905034:-128.63412857490505
+Best Score: -115.54509750543413
+Threshold: 20
+B G M
+L G M
+G M
+M
+
+Search times: 35
+Current Score: -57.59413776469026:-132.59413776469026
+Best Score: -115.54509750543413
+Threshold: 20
+B G M
+L M
+G L M
+M
+
+Search times: 36
+Current Score: -57.59413776469026:-132.59413776469026
+Best Score: -115.54509750543413
+Threshold: 20
+B G L M
+L M
+G L M
+M
+
+Search times: 37
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -115.54509750543413
+Threshold: 20
+B G L M
+L G M
+G M
+M
+
+Search times: 38
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L G M
+G M
+M
+
+Search times: 39
+Current Score: -58.92058789566942:-133.92058789566943
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L G
+G M
+M
+
+Search times: 40
+Current Score: -74.0354468410575:-139.0354468410575
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L G
+G
+M G
+
+Search times: 41
+Current Score: -74.0354468410575:-139.0354468410575
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L
+G L
+M G
+
+Search times: 42
+Current Score: -74.03544684105749:-139.03544684105748
+Best Score: -115.54509750543413
+Threshold: 20
+B G L
+L
+G L
+M G L
+
+Search times: 43
+Current Score: -58.92058789566942:-133.92058789566943
+Best Score: -115.54509750543413
+Threshold: 20
+B G L M
+L
+G L
+M G L
+
+Search times: 44
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -115.54509750543413
+Threshold: 20
+B L M
+L
+G L
+M G L
+
+Search times: 45
+Current Score: -61.992389232178155:-136.99238923217814
+Best Score: -115.54509750543413
+Threshold: 20
+B L M
+L
+G L
+M G
+
+Search times: 46
+Current Score: -77.10724817756602:-142.10724817756602
+Best Score: -115.54509750543413
+Threshold: 20
+B M
+L
+G L
+M G
+
+Search times: 47
+Current Score: -78.23591697456021:-133.2359169745602
+Best Score: -115.54509750543413
+Threshold: 20
+B L
+L
+G L
+M B G
+
+Search times: 48
+Current Score: -79.27338413438224:-144.27338413438224
+Best Score: -115.54509750543413
+Threshold: 20
+B L
+L
+G L M
+M B
+
+Search times: 49
+Current Score: -77.66163283221995:-142.66163283221994
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B
+G L M
+M B
+
+Search times: 50
+Current Score: -77.66163283221996:-142.66163283221996
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B
+G L M
+M B L
+
+Search times: 51
+Current Score: -61.992389232178134:-136.99238923217814
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B
+G B L M
+M B L
+
+Search times: 52
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -115.54509750543413
+Threshold: 20
+B L
+L
+G B L M
+M B L
+
+Search times: 53
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G B L M
+M B L
+
+Search times: 54
+Current Score: -56.84563016730432:-146.8456301673043
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G B L
+M B L
+
+Search times: 55
+Current Score: -57.03091728095533:-127.03091728095532
+Best Score: -115.54509750543413
+Threshold: 20
+B M
+L
+G B L
+M L
+
+Search times: 56
+Current Score: -58.158461255685495:-123.1584612556855
+Best Score: -115.54509750543413
+Threshold: 20
+B M
+L
+G B L M
+M L
+
+Search times: 57
+Current Score: -57.973174142034466:-142.97317414203445
+Best Score: -115.54509750543413
+Threshold: 20
+B M
+L M
+G B L M
+M
+
+Search times: 58
+Current Score: -57.973174142034466:-142.97317414203445
+Best Score: -115.54509750543413
+Threshold: 20
+B M
+L M
+G L M
+M
+
+Search times: 59
+Current Score: -63.12105802917215:-128.12105802917216
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L M
+G L M
+M B
+
+Search times: 60
+Current Score: -63.12105802917215:-128.12105802917216
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B M
+G L M
+M B
+
+Search times: 61
+Current Score: -61.992389232178134:-136.99238923217814
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B M
+G M
+M B
+
+Search times: 62
+Current Score: -62.58858411250621:-127.58858411250621
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B M
+G B M
+M B
+
+Search times: 63
+Current Score: -57.061663848024324:-132.06166384802432
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L M
+G B M
+M B
+
+Search times: 64
+Current Score: -58.19033264501833:-123.19033264501833
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G B M
+M B
+
+Search times: 65
+Current Score: -72.73203227033001:-132.73203227033002
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G B L M
+M B
+
+Search times: 66
+Current Score: -72.51487376734627:-152.51487376734627
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G L M
+M B
+
+Search times: 67
+Current Score: -77.66275765448377:-137.66275765448376
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G L
+M B G
+
+Search times: 68
+Current Score: -79.27450895664629:-139.2745089566463
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G L M
+M
+
+Search times: 69
+Current Score: -80.03915924702265:-135.03915924702267
+Best Score: -115.54509750543413
+Threshold: 20
+B M
+L
+G L M
+M
+
+Search times: 70
+Current Score: -77.66275765448377:-137.66275765448376
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G M
+M B
+
+Search times: 71
+Current Score: -78.25895253481187:-128.25895253481187
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G
+M B G
+
+Search times: 72
+Current Score: -79.29754451689793:-134.29754451689791
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B
+G
+M B G
+
+Search times: 73
+Current Score: -79.29641969463404:-139.29641969463404
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B G
+G
+M B G
+
+Search times: 74
+Current Score: -79.26314947717263:-149.26314947717265
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B G
+G B
+M B G
+
+Search times: 75
+Current Score: -72.69763723060473:-147.69763723060473
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B G
+G B M
+M B
+
+Search times: 76
+Current Score: -72.69763723060467:-147.69763723060467
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B G
+G M
+M B
+
+Search times: 77
+Current Score: -78.22455749508651:-143.22455749508651
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B G M
+G M
+M B
+
+Search times: 78
+Current Score: -62.37142560952235:-147.37142560952236
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B G M
+G
+M B
+
+Search times: 79
+Current Score: -63.411416419737094:-143.4114164197371
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B M
+G
+M B
+
+Search times: 80
+Current Score: -63.62857492272097:-123.62857492272097
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B M
+G
+M
+
+Search times: 81
+Current Score: -66.00497651525987:-121.00497651525987
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L B
+G
+M L
+
+Search times: 82
+Current Score: -67.13252048998999:-117.13252048998999
+Best Score: -115.54509750543413
+Threshold: 20
+B
+L
+G
+M L
+
+Search times: 83
+Current Score: -67.13364531225385:-112.13364531225385
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G
+M L
+
+Search times: 84
+Current Score: -67.13252048998999:-117.13252048998999
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G B
+M L
+
+Search times: 85
+Current Score: -60.567008243422045:-115.56700824342204
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G B
+M G L
+
+Search times: 86
+Current Score: -58.95385811313105:-123.95385811313105
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B
+M G L
+
+Search times: 87
+Current Score: -58.95385811313105:-123.95385811313105
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B
+G
+M G L
+
+Search times: 88
+Current Score: -58.95385811313105:-123.95385811313105
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B
+G
+M L
+
+Search times: 89
+Current Score: -60.567008243422045:-115.56700824342204
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B M
+G
+M
+
+Search times: 90
+Current Score: -59.43946426869181:-119.43946426869181
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L B M
+G
+M
+
+Search times: 91
+Current Score: -58.10165465823901:-128.101654658239
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L B
+G
+M
+
+Search times: 92
+Current Score: -73.77089825828097:-133.77089825828097
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B
+G B
+M
+
+Search times: 93
+Current Score: -72.73230627619492:-127.73230627619492
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L
+G B
+M
+
+Search times: 94
+Current Score: -71.60476230146472:-131.60476230146472
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L
+G B M
+M
+
+Search times: 95
+Current Score: -71.60336347333599:-141.603363473336
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B
+G B M
+M
+
+Search times: 96
+Current Score: -72.73090744806615:-137.73090744806615
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B M
+M
+
+Search times: 97
+Current Score: -75.107309040605:-135.107309040605
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B M
+G B M
+M
+
+Search times: 98
+Current Score: -57.061663848024324:-132.06166384802432
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B G M
+G B M
+M
+
+Search times: 99
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B M
+G B L M
+M
+
+Search times: 100
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L M
+G B L M
+M
+
+Search times: 101
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L M
+G B M
+M
+
+Search times: 102
+Current Score: -57.061663848024324:-132.06166384802432
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L M
+G M
+M
+
+Search times: 103
+Current Score: -57.44070022536856:-142.44070022536857
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L M
+G M
+M
+
+Search times: 104
+Current Score: -59.51678277599752:-124.51678277599751
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L G M
+G M
+M
+
+Search times: 105
+Current Score: -65.49633479944717:-130.49633479944717
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G M
+G M
+M
+
+Search times: 106
+Current Score: -64.7478272020612:-144.74782720206122
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B M
+G L M
+M
+
+Search times: 107
+Current Score: -64.368790824717:-134.368790824717
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B M
+G M
+M
+
+Search times: 108
+Current Score: -64.9649857050451:-124.9649857050451
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G
+G
+M L
+
+Search times: 109
+Current Score: -67.09925027252841:-127.09925027252841
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G
+G
+M G L
+
+Search times: 110
+Current Score: -65.48610014223739:-135.48610014223738
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G M
+G B
+M G
+
+Search times: 111
+Current Score: -58.182314955493226:-143.1823149554932
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B G M
+G
+M G
+
+Search times: 112
+Current Score: -58.18231495549327:-143.18231495549327
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B G M
+G
+M
+
+Search times: 113
+Current Score: -59.222305765708015:-139.22230576570803
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B G M
+G M
+M
+
+Search times: 114
+Current Score: -58.18231495549328:-143.18231495549327
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L B G M
+G
+M
+
+Search times: 115
+Current Score: -57.884496155255235:-147.88449615525525
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L B G
+G
+M
+
+Search times: 116
+Current Score: -73.73762804081932:-143.73762804081932
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B G
+G B
+M
+
+Search times: 117
+Current Score: -72.69903605873328:-137.69903605873327
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B G M
+G B
+M
+
+Search times: 118
+Current Score: -56.8459041731692:-141.8459041731692
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G M
+G B
+M B
+
+Search times: 119
+Current Score: -56.8459041731692:-141.8459041731692
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B M
+G B L
+M B
+
+Search times: 120
+Current Score: -57.02979245869146:-132.02979245869147
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B M
+G B
+M B
+
+Search times: 121
+Current Score: -57.06306267615297:-122.06306267615297
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B M
+G B
+M
+
+Search times: 122
+Current Score: -59.439464268691786:-119.43946426869178
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B M
+G B
+M G
+
+Search times: 123
+Current Score: -58.399473458477125:-123.39947345847713
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B M
+G B
+M
+
+Search times: 124
+Current Score: -57.06306267615297:-122.06306267615297
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B M
+G B L
+M
+
+Search times: 125
+Current Score: -57.02979245869146:-132.02979245869147
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L G M
+G
+M
+
+Search times: 126
+Current Score: -59.960578705884195:-129.9605787058842
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L G
+G
+M
+
+Search times: 127
+Current Score: -75.07543765127214:-135.07543765127213
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L G
+G
+M
+
+Search times: 128
+Current Score: -75.08679713074572:-125.08679713074572
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L G
+G
+M
+
+Search times: 129
+Current Score: -73.74898752029296:-133.74898752029296
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L G
+G
+M
+
+Search times: 130
+Current Score: -72.99935510064316:-152.99935510064316
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L B G
+G M
+M
+
+Search times: 131
+Current Score: -72.69763723060467:-147.69763723060467
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B G
+G M
+M
+
+Search times: 132
+Current Score: -74.0354468410575:-139.0354468410575
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L
+G L
+M
+
+Search times: 133
+Current Score: -72.99935510064316:-152.99935510064316
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L
+G L
+M
+
+Search times: 134
+Current Score: -78.14723898778084:-138.14723898778084
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L
+G
+M G
+
+Search times: 135
+Current Score: -77.13028373781786:-137.13028373781788
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L
+G
+M G L
+
+Search times: 136
+Current Score: -62.01542479243:-132.01542479243
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L G
+G
+M G
+
+Search times: 137
+Current Score: -77.107248177566:-142.10724817756602
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L G
+G
+M G
+
+Search times: 138
+Current Score: -78.2359169745602:-133.2359169745602
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L G
+G
+M G
+
+Search times: 139
+Current Score: -72.7089967100783:-137.70899671007828
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L G
+G
+M B G
+
+Search times: 140
+Current Score: -72.7089967100783:-137.70899671007828
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L G
+G B
+M B G
+
+Search times: 141
+Current Score: -72.70899671007834:-137.70899671007834
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B
+M B G
+
+Search times: 142
+Current Score: -72.73090744806612:-137.73090744806612
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B M
+G B
+M B G
+
+Search times: 143
+Current Score: -57.06166384802437:-132.06166384802435
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L M
+G B
+M B G
+
+Search times: 144
+Current Score: -58.19033264501837:-123.19033264501837
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L M
+G B
+M B
+
+Search times: 145
+Current Score: -58.19173147314705:-113.19173147314706
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L M
+G B L
+M B
+
+Search times: 146
+Current Score: -58.15846125568548:-123.15846125568548
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L M
+G B L M
+M B
+
+Search times: 147
+Current Score: -57.973174142034445:-142.97317414203445
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B M
+G L M
+M
+
+Search times: 148
+Current Score: -61.992389232178134:-136.99238923217814
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L M
+G L M
+M
+
+Search times: 149
+Current Score: -61.992389232178134:-136.99238923217814
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L M
+G L M
+M
+
+Search times: 150
+Current Score: -65.49633479944717:-130.49633479944717
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L M
+G M
+M
+
+Search times: 151
+Current Score: -62.58858411250621:-127.58858411250621
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L B G M
+G M
+M
+
+Search times: 152
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L B M
+G M
+M
+
+Search times: 153
+Current Score: -57.061663848024324:-132.06166384802432
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B M
+G M
+M
+
+Search times: 154
+Current Score: -62.58858411250621:-127.58858411250621
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B
+G M
+M
+
+Search times: 155
+Current Score: -78.25782771254799:-133.257827712548
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B
+G
+M
+
+Search times: 156
+Current Score: -79.29781852276281:-129.2978185227628
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G
+M B
+
+Search times: 157
+Current Score: -79.29781852276281:-129.2978185227628
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B
+M B
+
+Search times: 158
+Current Score: -72.73230627619493:-127.73230627619493
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B
+G
+M B
+
+Search times: 159
+Current Score: -72.73230627619493:-127.73230627619493
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B M
+G
+M B
+
+Search times: 160
+Current Score: -57.06306267615297:-122.06306267615297
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G M
+M B
+
+Search times: 161
+Current Score: -78.25782771254799:-133.257827712548
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G M
+M B
+
+Search times: 162
+Current Score: -78.25782771254799:-133.257827712548
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G L M
+M B L
+
+Search times: 163
+Current Score: -61.992389232178134:-136.99238923217814
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L
+G L M
+M L
+
+Search times: 164
+Current Score: -61.992389232178155:-136.99238923217814
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L
+G L M
+M L
+
+Search times: 165
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L
+G L M
+M L
+
+Search times: 166
+Current Score: -58.92058789566942:-133.92058789566943
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G L
+M G
+
+Search times: 167
+Current Score: -80.61119374483503:-135.61119374483502
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L G
+G
+M
+
+Search times: 168
+Current Score: -78.14723898778084:-138.14723898778084
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L
+G
+M
+
+Search times: 169
+Current Score: -73.022390660895:-148.02239066089498
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L B G
+G
+M
+
+Search times: 170
+Current Score: -79.26454830530116:-139.26454830530116
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L G
+G
+M
+
+Search times: 171
+Current Score: -79.27590778477486:-129.27590778477486
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L
+G M
+M
+
+Search times: 172
+Current Score: -71.98239985068021:-151.98239985068022
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L
+G M
+M L
+
+Search times: 173
+Current Score: -57.44070022536856:-142.44070022536857
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L
+G
+M L
+
+Search times: 174
+Current Score: -58.48069103558328:-138.48069103558328
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L G
+G
+M B L
+
+Search times: 175
+Current Score: -57.02979245869146:-132.02979245869147
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L G
+G
+M L
+
+Search times: 176
+Current Score: -60.53373802596048:-125.53373802596047
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L G
+G
+M G L
+
+Search times: 177
+Current Score: -58.92058789566942:-133.92058789566943
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L G
+G
+M G L
+
+Search times: 178
+Current Score: -58.93194737514308:-123.93194737514308
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L G
+G B
+M G L
+
+Search times: 179
+Current Score: -58.93194737514302:-123.93194737514301
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L G
+G
+M L
+
+Search times: 180
+Current Score: -60.54509750543413:-115.54509750543413
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L G
+G
+M G
+
+Search times: 181
+Current Score: -74.04680632053112:-129.04680632053112
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L G
+G B
+M G
+
+Search times: 182
+Current Score: -74.04680632053115:-129.04680632053115
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L G
+G
+M B G
+
+Search times: 183
+Current Score: -72.69763723060467:-147.69763723060467
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L
+G L
+M G
+
+Search times: 184
+Current Score: -74.04680632053109:-129.0468063205311
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L
+G L
+M B G
+
+Search times: 185
+Current Score: -72.7089967100783:-137.70899671007828
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L
+G L
+M B G L
+
+Search times: 186
+Current Score: -56.8558648245141:-141.8558648245141
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L
+G L
+M B G L
+
+Search times: 187
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G L
+M B G L
+
+Search times: 188
+Current Score: -63.420252248818194:-148.4202522488182
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L G
+G
+M B G L
+
+Search times: 189
+Current Score: -63.4202522488182:-148.4202522488182
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L G
+G
+M B L
+
+Search times: 190
+Current Score: -63.605539362469166:-128.60553936246916
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L G
+G
+M L
+
+Search times: 191
+Current Score: -67.10948492973819:-122.10948492973819
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L G M
+G
+M
+
+Search times: 192
+Current Score: -59.971938185357814:-119.97193818535781
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G
+G
+M
+
+Search times: 193
+Current Score: -81.64094989784007:-136.64094989784007
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G
+G B
+M
+
+Search times: 194
+Current Score: -75.07543765127213:-135.07543765127213
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B L
+M
+
+Search times: 195
+Current Score: -75.07543765127213:-135.07543765127213
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B L
+M L
+
+Search times: 196
+Current Score: -60.53373802596048:-125.53373802596047
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B
+M L
+
+Search times: 197
+Current Score: -60.567008243422045:-115.56700824342204
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B
+M B L
+
+Search times: 198
+Current Score: -57.06306267615297:-122.06306267615297
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B
+M G
+
+Search times: 199
+Current Score: -74.06871705851893:-129.06871705851893
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B L
+M G
+
+Search times: 200
+Current Score: -74.0354468410575:-139.0354468410575
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G
+G B
+M G
+
+Search times: 201
+Current Score: -74.03544684105755:-139.03544684105754
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B L
+M G L
+
+Search times: 202
+Current Score: -58.92058789566942:-133.92058789566943
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G L
+M G L
+
+Search times: 203
+Current Score: -65.49633479944715:-130.49633479944714
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G L
+M L
+
+Search times: 204
+Current Score: -67.10948492973819:-122.10948492973819
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B G
+G
+M G L
+
+Search times: 205
+Current Score: -58.92058789566942:-133.92058789566943
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G M
+G B
+M B G
+
+Search times: 206
+Current Score: -56.84450534504047:-151.84450534504046
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L M
+G
+M G
+
+Search times: 207
+Current Score: -57.44070022536856:-142.44070022536857
+Best Score: -112.13364531225385
+Threshold: 20
+B G L M
+L
+G
+M G
+
+Search times: 208
+Current Score: -71.98239985068021:-151.98239985068022
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L M
+G
+M G
+
+Search times: 209
+Current Score: -62.58858411250621:-127.58858411250621
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L B M
+G
+M G
+
+Search times: 210
+Current Score: -58.39947345847712:-123.39947345847712
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B G
+G B
+M B G L
+
+Search times: 211
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B
+M B G L
+
+Search times: 212
+Current Score: -56.87777556250209:-141.87777556250208
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B M
+M B L
+
+Search times: 213
+Current Score: -57.061663848024324:-132.06166384802432
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B M
+M B
+
+Search times: 214
+Current Score: -72.73090744806615:-137.73090744806615
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B L M
+M L
+
+Search times: 215
+Current Score: -60.34845091230946:-145.34845091230946
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G L M
+M L
+
+Search times: 216
+Current Score: -65.49633479944715:-130.49633479944714
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G L M
+M L
+
+Search times: 217
+Current Score: -65.49633479944717:-130.49633479944717
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G M
+M L
+
+Search times: 218
+Current Score: -66.0925296797752:-121.0925296797752
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L
+G M
+M L
+
+Search times: 219
+Current Score: -62.58858411250621:-127.58858411250621
+Best Score: -112.13364531225385
+Threshold: 20
+B L M
+L
+G L
+M L
+
+Search times: 220
+Current Score: -63.605539362469166:-128.60553936246916
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L
+G L
+M L
+
+Search times: 221
+Current Score: -64.73420815946321:-119.73420815946321
+Best Score: -112.13364531225385
+Threshold: 20
+B M
+L
+G L M
+M L
+
+Search times: 222
+Current Score: -63.12105802917215:-128.12105802917216
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L
+G L M
+M B L
+
+Search times: 223
+Current Score: -61.99351405444203:-131.99351405444202
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G L
+M B L
+
+Search times: 224
+Current Score: -63.605539362469166:-128.60553936246916
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G B L
+M B L
+
+Search times: 225
+Current Score: -57.029792458691446:-132.02979245869145
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G B L
+M B G L
+
+Search times: 226
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L
+G B L
+M B G L
+
+Search times: 227
+Current Score: -56.84563016730432:-146.8456301673043
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L
+G L
+M L
+
+Search times: 228
+Current Score: -60.53373802596048:-125.53373802596047
+Best Score: -112.13364531225385
+Threshold: 20
+B L
+L
+G B
+M B G L
+
+Search times: 229
+Current Score: -56.87777556250209:-141.87777556250208
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L
+G L
+M B G L
+
+Search times: 230
+Current Score: -63.42137707108204:-143.42137707108205
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L G
+G
+M B G L
+
+Search times: 231
+Current Score: -63.42137707108204:-143.42137707108205
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L G M
+G
+M B G
+
+Search times: 232
+Current Score: -64.15965001125821:-134.1596500112582
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L G
+G
+M B G
+
+Search times: 233
+Current Score: -79.27450895664629:-139.2745089566463
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L M
+G L
+M B
+
+Search times: 234
+Current Score: -64.73420815946321:-119.73420815946321
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L
+G B L M
+M
+
+Search times: 235
+Current Score: -74.89127535988514:-149.89127535988513
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L B
+G B L M
+M
+
+Search times: 236
+Current Score: -74.89015053762114:-154.89015053762114
+Best Score: -112.13364531225385
+Threshold: 20
+B
+L
+G L M
+M L
+
+Search times: 237
+Current Score: -65.497459621711:-125.497459621711
+Best Score: -112.13364531225385
+Threshold: 20
+B G M
+L
+G M
+M L
+
+Search times: 238
+Current Score: -58.19033264501836:-123.19033264501836
+Best Score: -112.13364531225385
+Threshold: 20
+B G L
+L
+G M
+M L
+
+Search times: 239
+Current Score: -59.51678277599752:-124.51678277599751
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L
+G M
+M L
+
+Search times: 240
+Current Score: -59.52814225547112:-114.52814225547112
+Best Score: -112.13364531225385
+Threshold: 20
+B G
+L
+G
+M L
+
+Search times: 241
+Current Score: -60.56813306568591:-110.56813306568591
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L M
+G
+M
+
+Search times: 242
+Current Score: -60.56813306568592:-110.56813306568591
+Best Score: -110.56813306568591
+Threshold: 20
+B G M
+L M
+G
+M
+
+Search times: 243
+Current Score: -59.23032345523308:-119.23032345523308
+Best Score: -110.56813306568591
+Threshold: 20
+B G M
+L M
+G L
+M
+
+Search times: 244
+Current Score: -59.20728789498132:-124.20728789498132
+Best Score: -110.56813306568591
+Threshold: 20
+B G L M
+L M
+G L
+M
+
+Search times: 245
+Current Score: -58.45765547533152:-143.45765547533153
+Best Score: -110.56813306568591
+Threshold: 20
+B G L
+L M
+G L
+M
+
+Search times: 246
+Current Score: -60.53373802596048:-125.53373802596047
+Best Score: -110.56813306568591
+Threshold: 20
+B G L M
+L G M
+G
+M
+
+Search times: 247
+Current Score: -57.884496155255235:-147.88449615525525
+Best Score: -110.56813306568591
+Threshold: 20
+B G L M
+L G M
+G
+M G
+
+Search times: 248
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -110.56813306568591
+Threshold: 20
+B G L
+L
+G M
+M
+
+Search times: 249
+Current Score: -74.05848240130915:-134.05848240130916
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L G
+G M
+M
+
+Search times: 250
+Current Score: -74.04680632053109:-129.0468063205311
+Best Score: -110.56813306568591
+Threshold: 20
+B G M
+L G
+G M
+M
+
+Search times: 251
+Current Score: -72.7089967100783:-137.70899671007828
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L G
+G B M
+M
+
+Search times: 252
+Current Score: -72.70899671007828:-137.70899671007828
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L B G
+G B M
+M
+
+Search times: 253
+Current Score: -72.69763723060467:-147.69763723060467
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L B G M
+G M
+M
+
+Search times: 254
+Current Score: -62.37142560952235:-147.37142560952236
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B
+G B L M
+M B
+
+Search times: 255
+Current Score: -72.51374894508224:-157.51374894508223
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B L M
+M B
+
+Search times: 256
+Current Score: -72.51374894508224:-157.51374894508223
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B M
+M B
+
+Search times: 257
+Current Score: -72.73090744806612:-137.73090744806612
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B M
+M
+
+Search times: 258
+Current Score: -75.107309040605:-135.107309040605
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B L M
+M
+
+Search times: 259
+Current Score: -74.89015053762115:-154.89015053762114
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G L M
+M
+
+Search times: 260
+Current Score: -80.03803442475879:-140.0380344247588
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L G
+G M
+M B
+
+Search times: 261
+Current Score: -78.2359169745602:-133.2359169745602
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L G
+G M
+M
+
+Search times: 262
+Current Score: -80.61231856709908:-130.61231856709907
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L G M
+G M
+M
+
+Search times: 263
+Current Score: -65.497459621711:-125.497459621711
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L G M
+G B M
+M
+
+Search times: 264
+Current Score: -59.970539357229114:-129.97053935722911
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B G M
+G B M
+M
+
+Search times: 265
+Current Score: -59.220906937579315:-149.22090693757931
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B G
+G B M
+M
+
+Search times: 266
+Current Score: -75.07403882314358:-145.07403882314358
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B L
+M G L
+
+Search times: 267
+Current Score: -58.92058789566942:-133.92058789566943
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B
+G B L
+M B L
+
+Search times: 268
+Current Score: -57.02979245869146:-132.02979245869147
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B
+G B L
+M B
+
+Search times: 269
+Current Score: -72.69903605873328:-137.69903605873327
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B
+G L
+M B
+
+Search times: 270
+Current Score: -79.27478296251103:-134.27478296251104
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L B
+G L
+M
+
+Search times: 271
+Current Score: -79.27478296251101:-134.274782962511
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L B
+G L M
+M
+
+Search times: 272
+Current Score: -77.66163283221996:-142.66163283221996
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L B G
+G M
+M
+
+Search times: 273
+Current Score: -78.22455749508651:-143.22455749508651
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B G
+G M
+M
+
+Search times: 274
+Current Score: -80.60095908762544:-140.60095908762543
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B
+G M
+M
+
+Search times: 275
+Current Score: -80.63422930508685:-130.63422930508685
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L G M
+G B
+M
+
+Search times: 276
+Current Score: -59.971938185357814:-119.97193818535781
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L G M
+G B
+M G
+
+Search times: 277
+Current Score: -58.931947375143025:-123.93194737514303
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B G
+G B
+M G L
+
+Search times: 278
+Current Score: -58.92058789566942:-133.92058789566943
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B
+G
+M B G L
+
+Search times: 279
+Current Score: -63.44328780907004:-143.44328780907006
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G
+M B G L
+
+Search times: 280
+Current Score: -63.44328780907008:-143.44328780907009
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G
+M B G
+
+Search times: 281
+Current Score: -79.29641969463404:-139.29641969463404
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G
+M B L
+
+Search times: 282
+Current Score: -63.628574922721:-123.628574922721
+Best Score: -110.56813306568591
+Threshold: 20
+B L M
+L
+G
+M L
+
+Search times: 283
+Current Score: -63.628574922721:-123.628574922721
+Best Score: -110.56813306568591
+Threshold: 20
+B G L
+L
+G
+M L
+
+Search times: 284
+Current Score: -60.55677358621224:-120.55677358621224
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G L
+M L
+
+Search times: 285
+Current Score: -67.10948492973819:-122.10948492973819
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G L
+M G L
+
+Search times: 286
+Current Score: -65.49633479944715:-130.49633479944714
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L B M
+G M
+M
+
+Search times: 287
+Current Score: -58.39947345847712:-123.39947345847712
+Best Score: -110.56813306568591
+Threshold: 20
+B G M
+L B
+G M
+M
+
+Search times: 288
+Current Score: -72.73090744806612:-137.73090744806612
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L
+G M
+M
+
+Search times: 289
+Current Score: -78.25895253481188:-128.2589525348119
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L G
+G M
+M
+
+Search times: 290
+Current Score: -78.23591697456018:-133.23591697456018
+Best Score: -110.56813306568591
+Threshold: 20
+B L M
+L G
+G M
+M
+
+Search times: 291
+Current Score: -77.107248177566:-142.10724817756602
+Best Score: -110.56813306568591
+Threshold: 20
+B G L M
+L G
+G M
+M
+
+Search times: 292
+Current Score: -71.9593642904285:-156.95936429042848
+Best Score: -110.56813306568591
+Threshold: 20
+B L M
+L G
+G
+M L
+
+Search times: 293
+Current Score: -63.605539362469166:-128.60553936246916
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L
+G L
+M
+
+Search times: 294
+Current Score: -79.27590778477486:-129.27590778477486
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L G
+G
+M L
+
+Search times: 295
+Current Score: -64.73420815946321:-119.73420815946321
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L
+G
+M L
+
+Search times: 296
+Current Score: -64.75724371971498:-114.75724371971498
+Best Score: -110.56813306568591
+Threshold: 20
+B L M
+L M
+G
+M
+
+Search times: 297
+Current Score: -63.62857492272089:-123.62857492272089
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B M
+M B L
+
+Search times: 298
+Current Score: -57.061663848024324:-132.06166384802432
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B
+M B L
+
+Search times: 299
+Current Score: -57.06306267615297:-122.06306267615297
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G B
+M B L
+
+Search times: 300
+Current Score: -57.06418749841689:-117.06418749841689
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B
+M B
+
+Search times: 301
+Current Score: -72.73230627619495:-127.73230627619495
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B L
+M B
+
+Search times: 302
+Current Score: -72.69903605873328:-137.69903605873327
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G L
+M B
+
+Search times: 303
+Current Score: -79.27478296251101:-134.274782962511
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G
+M B
+
+Search times: 304
+Current Score: -79.29781852276281:-129.2978185227628
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G
+M B
+
+Search times: 305
+Current Score: -79.29894334502669:-124.29894334502669
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G
+M
+
+Search times: 306
+Current Score: -81.67534493756551:-121.67534493756551
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G
+M G
+
+Search times: 307
+Current Score: -80.63535412735074:-125.63535412735074
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G B
+M G
+
+Search times: 308
+Current Score: -74.06984188078279:-124.06984188078279
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G B
+M B G
+
+Search times: 309
+Current Score: -72.73203227033001:-132.73203227033002
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G B
+M G L
+
+Search times: 310
+Current Score: -58.95498293539489:-118.9549829353949
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G B
+M B G L
+
+Search times: 311
+Current Score: -56.87890038476593:-136.87890038476593
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L M
+G B
+M
+
+Search times: 312
+Current Score: -58.19173147314707:-113.19173147314707
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L M
+G
+M
+
+Search times: 313
+Current Score: -64.75724371971498:-114.75724371971498
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L M
+G L
+M
+
+Search times: 314
+Current Score: -64.73420815946321:-119.73420815946321
+Best Score: -110.56813306568591
+Threshold: 20
+B L M
+L
+G B
+M L
+
+Search times: 315
+Current Score: -57.06306267615297:-122.06306267615297
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L
+G B
+M L
+
+Search times: 316
+Current Score: -58.19173147314707:-113.19173147314707
+Best Score: -110.56813306568591
+Threshold: 20
+B L M
+L M
+G B
+M
+
+Search times: 317
+Current Score: -57.06306267615297:-122.06306267615297
+Best Score: -110.56813306568591
+Threshold: 20
+B G L M
+L M
+G
+M
+
+Search times: 318
+Current Score: -58.480691035583284:-138.48069103558328
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L B M
+G
+M
+
+Search times: 319
+Current Score: -63.628574922721:-123.628574922721
+Best Score: -110.56813306568591
+Threshold: 20
+B L M
+L
+G
+M
+
+Search times: 320
+Current Score: -78.17027454803268:-133.1702745480327
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G
+M G L
+
+Search times: 321
+Current Score: -65.51937035969904:-125.51937035969904
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G
+M G
+
+Search times: 322
+Current Score: -80.63422930508685:-130.63422930508685
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B L M
+M L
+
+Search times: 323
+Current Score: -60.34845091230946:-145.34845091230946
+Best Score: -110.56813306568591
+Threshold: 20
+B L M
+L
+G L M
+M
+
+Search times: 324
+Current Score: -76.53408885748982:-146.53408885748982
+Best Score: -110.56813306568591
+Threshold: 20
+B L M
+L
+G B L M
+M L
+
+Search times: 325
+Current Score: -56.84450534504046:-151.84450534504046
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L M
+G L M
+M
+
+Search times: 326
+Current Score: -65.497459621711:-125.497459621711
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G M
+M L
+
+Search times: 327
+Current Score: -66.09365450203909:-116.09365450203909
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G
+M B L
+
+Search times: 328
+Current Score: -63.629699744984855:-118.62969974498486
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B
+G
+M B L
+
+Search times: 329
+Current Score: -63.62857492272086:-123.62857492272086
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L B G
+G
+M L
+
+Search times: 330
+Current Score: -60.53373802596048:-125.53373802596047
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B
+G L
+M B L
+
+Search times: 331
+Current Score: -63.605539362469166:-128.60553936246916
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G M
+M B L
+
+Search times: 332
+Current Score: -62.58970893477007:-122.58970893477007
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L
+G B M
+M L
+
+Search times: 333
+Current Score: -58.19033264501836:-123.19033264501836
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L
+G B M
+M L
+
+Search times: 334
+Current Score: -60.566734237557185:-120.56673423755718
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L
+G B M
+M L
+
+Search times: 335
+Current Score: -60.565609415293316:-125.56560941529332
+Best Score: -110.56813306568591
+Threshold: 20
+B L
+L M
+G M
+M
+
+Search times: 336
+Current Score: -66.0925296797752:-121.0925296797752
+Best Score: -110.56813306568591
+Threshold: 20
+B G L
+L
+G
+M
+
+Search times: 337
+Current Score: -75.09847321152398:-130.09847321152398
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L
+G
+M
+
+Search times: 338
+Current Score: -75.10983269099759:-120.10983269099759
+Best Score: -110.56813306568591
+Threshold: 20
+B G L
+L M
+G
+M
+
+Search times: 339
+Current Score: -60.556773586212245:-120.55677358621224
+Best Score: -110.56813306568591
+Threshold: 20
+B G L
+L
+G
+M G
+
+Search times: 340
+Current Score: -74.05848240130915:-134.05848240130916
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L
+G
+M G
+
+Search times: 341
+Current Score: -74.06984188078279:-124.06984188078279
+Best Score: -110.56813306568591
+Threshold: 20
+B G M
+L
+G
+M G
+
+Search times: 342
+Current Score: -72.73203227033001:-132.73203227033002
+Best Score: -110.56813306568591
+Threshold: 20
+B G M
+L
+G M
+M
+
+Search times: 343
+Current Score: -72.73203227033001:-132.73203227033002
+Best Score: -110.56813306568591
+Threshold: 20
+B G M
+L
+G
+M
+
+Search times: 344
+Current Score: -73.7720230805448:-128.77202308054478
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L
+G B
+M
+
+Search times: 345
+Current Score: -72.73343109845874:-122.73343109845874
+Best Score: -110.56813306568591
+Threshold: 20
+B M
+L G
+G B
+M
+
+Search times: 346
+Current Score: -72.7103955382069:-127.7103955382069
+Best Score: -110.56813306568591
+Threshold: 20
+B
+L B G
+G B
+M B
+
+Search times: 347
+Current Score: -72.69903605873328:-137.69903605873327
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L B
+G
+M G
+
+Search times: 348
+Current Score: -74.06871705851893:-129.06871705851893
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L B
+G
+M
+
+Search times: 349
+Current Score: -75.10870786873379:-125.10870786873379
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L G M
+G
+M G
+
+Search times: 350
+Current Score: -58.93194737514306:-123.93194737514307
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L G M
+G
+M B G
+
+Search times: 351
+Current Score: -57.59413776469026:-132.59413776469026
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L M
+G
+M B G
+
+Search times: 352
+Current Score: -58.19033264501836:-123.19033264501836
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L M
+G
+M G
+
+Search times: 353
+Current Score: -59.52814225547112:-114.52814225547112
+Best Score: -110.56813306568591
+Threshold: 20
+B G
+L G M
+G M
+M
+
+Search times: 354
+Current Score: -58.93194737514308:-123.93194737514308
+Best Score: -110.56813306568591
+Threshold: 20
+No new model is found after 20 tries
