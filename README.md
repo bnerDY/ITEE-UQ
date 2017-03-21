@@ -1,5 +1,5 @@
 ### ITEE @_The University of Queensland_, Australia
-
+---------------------------------------
 Programming courseworks at _The University of Queensland_ from 2012 to 2014.
 
 #### Courses:
